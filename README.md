@@ -16,9 +16,9 @@
 - JDK 23
 - IntelliJ Idea (Windows)
 
-## Autor do projeto
-- Filipi Mantelato
-- 11232100259
+## Autores do projeto
+- Filipi Mantelato e Lucas Leite
+- 11232100259 e 11222100555
 
 
 
